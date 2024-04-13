@@ -85,7 +85,7 @@ public class Test {
 			}
 			
 			
-			System.out.println("Deseja continuar? '1' para sim e '2' para não");
+			System.out.println("Deseja continuar? Digite qualquer numero para sim e '2' para não");
 			escolha = teclado.nextInt();
 		}while(escolha != 2);
 		
